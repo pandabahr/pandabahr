@@ -1,8 +1,3 @@
----
-title: Charles Lu Portfolio
----
-
-
 # Charles Lu
 ### Cool guy for hire. Mechanical engineer, closet coder.
 
