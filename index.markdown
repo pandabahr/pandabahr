@@ -3,3 +3,4 @@
 
 * [Instagram](http://www.instagram.com/pandabahr)
 * [Wordpress](http://pandabahreats.wordpress.com)
+* [LinkedIn](http://www.linkedin.com/in/lucharles)
