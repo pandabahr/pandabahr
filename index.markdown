@@ -1,6 +1,6 @@
 ![That's me!](/headshot.jpg)
 
-### Resourceful, manufacturing-oriented electromechanical prototype developer with overseas sourcing experience in Taiwan and China. Former head of sourcing and project manager for [Vanguard Moto](http://www.vanguard.nyc). Heat transfer and acoustics simulation engineer at ExxonMobil in a past life. 
+### Resourceful, manufacturing-oriented electromechanical prototype developer with overseas sourcing experience in Taiwan and China. Former head of sourcing and project manager for [Vanguard Moto](http://www.vanguard.nyc). Thermodynamics simulation engineer at ExxonMobil in a past life.
 
 ![Vanguard Roadster](/roadster.jpg)
 
