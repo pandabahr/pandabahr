@@ -15,7 +15,7 @@ Resourceful, manufacturing-oriented mechanical engineer with experience in elect
 ![Vanguard Roadster](/roadster.jpg)
 
 **Footsie** - mechanical prophylactic device for preventing blood clots in hospitalized patients through a foot-actuated game controller. Built POC using Tincore Keymapper on Android in combination with bluetooth gamepad and mechanical sensors.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HEDHRub0b9c" frameborder="0" allowfullscreen></iframe>
+[![Footsie YouTube](https://img.youtube.com/vi/HEDHRub0b9c/0.jpg)](https://www.youtube.com/embed/HEDHRub0b9c)
 
 **Soneter** - ZigBee-based ultrasonic flow meter for detecting leaks and measuring water usage in multi-residence apartment buildings. Part of Georgia Tech Capstone Design course - developed new housing and attachment mechanism concept, fabricated product demo rig. 
 ![Soneter Prototype](/soneter.jpg)
