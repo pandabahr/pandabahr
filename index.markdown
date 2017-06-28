@@ -3,12 +3,12 @@
 ### Overview
 Resourceful, manufacturing-oriented mechanical engineer with experience in electromechanical devices and overseas sourcing in Taiwan and China. Former head of sourcing and project manager for [Vanguard Moto](http://www.vanguard.nyc).
 
-**I Speak**: Onshape, Solidworks, COMSOL Multiphysics, Matlab/Octave, English, 中文
-
-**I Babble**: Python, Arduino, Français
+**Speaks**: Onshape, Solidworks, COMSOL Multiphysics, Matlab/Octave, English, 中文
+**Babbles**: Python, Arduino, Français
 
 * [Resume](http://www.ccharles.lu/resume) [[.pdf]](http://www.ccharles.lu/resume.pdf)
 * [LinkedIn](http://www.linkedin.com/in/lucharles)
+
 
 
 ### Past Work
