@@ -1,7 +1,7 @@
 ![That's me!](/headshot.jpg)
 
 ### Overview
-Resourceful, manufacturing-oriented mechanical engineer with experience in electromechanical devices and overseas sourcing in Taiwan and China. Former head of sourcing and project manager for [Vanguard Moto](http://www.vanguard.nyc).
+Resourceful, manufacturing-oriented mechanical engineer with experience in electromechanical devices, simulations, and overseas sourcing in Taiwan and China. Former head of sourcing and project manager for [Vanguard Moto](http://www.vanguard.nyc).
 
 * **Speaks**: Onshape, Solidworks, COMSOL Multiphysics, Matlab/Octave, English, 中文
 * **Babbles**: Python, Arduino, français
@@ -18,4 +18,4 @@ Resourceful, manufacturing-oriented mechanical engineer with experience in elect
 [![Footsie YouTube](https://img.youtube.com/vi/HEDHRub0b9c/0.jpg)](https://www.youtube.com/embed/HEDHRub0b9c)
 
 **Soneter** - ZigBee-based ultrasonic flow meter for detecting leaks and measuring water usage in multi-residence apartment buildings. Part of Georgia Tech Capstone Design course - developed new housing and attachment mechanism concept, fabricated product demo rig. 
-![Soneter Prototype](/soneter.jpg)
+[![Soneter Prototype](/soneter.jpg)](/soneter.jpg)
